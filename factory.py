@@ -1,5 +1,5 @@
 """
-Factory Pattern
+Abstract Factory Pattern
 
 Source: Me
 
