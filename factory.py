@@ -1,5 +1,10 @@
 """
-Factory design pattern example
+Factory Pattern
+
+Source: Me
+
+Interesting Discussion:
+http://stackoverflow.com/questions/6738309/is-factory-pattern-meaningless-in-python#6738456
 """
 
 class SuperHero(object):
