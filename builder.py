@@ -7,6 +7,7 @@ Interesting Discussion:
 http://stackoverflow.com/questions/11977279/builder-pattern-equivalent-in-python
 """
 
+
 class Car:
     def __init__(self):
         self._wheels = None
@@ -26,6 +27,7 @@ class Car:
 class CarBuilder:
     def buildView(self):
         pass
+
     def getResult(self):
         pass
 
